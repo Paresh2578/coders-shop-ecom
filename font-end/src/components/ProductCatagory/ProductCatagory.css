@@ -1,0 +1,11 @@
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+
+.catagory_item:hover{
+        transform: scale(1.1,1.1);
+        transition: .3s transform;
+box-shadow: 5px 10px 18px #888888;
+}
